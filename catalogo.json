@@ -1,0 +1,22 @@
+{
+    "catalogo": [
+        {
+            "id": 1,
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "ano": 1899
+        },
+        {
+            "id": 2,
+            "titulo": "Preguiça e Filosofia",
+            "autor": "John Perry",
+            "ano": 2011
+        },
+        {
+            "id": 3,
+            "titulo": "A Origem das Espécies",
+            "autor": "Charles Darwin",
+            "ano": 1859
+        }
+    ]
+}
